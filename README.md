@@ -121,13 +121,12 @@ Academic/security-focused tools:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
-
 
 ---
 
