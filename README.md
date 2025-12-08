@@ -5,7 +5,7 @@
 
 ---
 
-# 🧑‍💻 **Hy! I'm Keven Lucas**
+# 💻 **Hy! I'm Keven Lucas**
 
 I'm a **Software Engineer in Training at the University of Brasília (UnB)**, specializing in **backend automation**, **AI-powered chatbots**, and **enterprise integrations**.
 
