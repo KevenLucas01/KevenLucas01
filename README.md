@@ -121,22 +121,16 @@ Academic/security-focused tools:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevenLucas01&theme=tokyonight&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&hide_border=true" />
-</p>
-
----
-
-# ⚡ Final Note
-
-<p align="center">
-  <i>"Engineering intelligent systems that automate, optimize and empower real-world operations — from low-level code to AI-driven automation."</i>
 </p>
