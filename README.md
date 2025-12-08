@@ -4,12 +4,11 @@
 </p>
 
 ---
----
 
 <p align="center">
-  <img src="https://yllvmlhzfatqcibnvcvz.supabase.co/storage/v1/object/public/gitimg/akuma11.gif" width="350px"/>
+  <img src="https://yllvmlhzfatqcibnvcvz.supabase.co/storage/v1/object/public/gitimg/akuma11.gif" width="250px"/>
   <br>
-  <i>"Power comes from mastery — code, systems, intelligence."</i>
+  <i>"Power comes from mastery — code, systems, intelligence, solutions."</i>
 </p>
 
 # 💻 **Hy! I'm Keven Lucas**
@@ -34,14 +33,14 @@ Alongside automations, I also explore **systems programming in C**, implementing
 
 ---
 
-# ⚙️ **Tech Stack — Dark Hacker Panel**
+# ⚙️ **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,postgres,redis,docker,debian,git,github,vscode,powershell,bash&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,regex,fastapi,flask,selenium,linux,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pandas,fastapi,selenium,linux,cloudflare&theme=dark" />
 </p>
 
 ---
@@ -122,8 +121,10 @@ Academic/security-focused tools:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FF9C" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
