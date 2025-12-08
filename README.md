@@ -1,9 +1,16 @@
 <!-- Banner central animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00FF9C&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Training;AI+%26+Automation+Developer;Backend+Integrations+%7C+LLMs+%7C+RAG;Building+Practical+%26+Intelligent+Systems;University+of+Brasilia+(UnB)">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=6c386b&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Training;AI+%26+Automation+Developer;Backend+Integrations+%7C+LLMs+%7C+RAG;Building+Practical+%26+Intelligent+Systems;University+of+Brasilia+(UnB)">
 </p>
 
 ---
+---
+
+<p align="center">
+  <img src="https://yllvmlhzfatqcibnvcvz.supabase.co/storage/v1/object/public/gitimg/akuma11.gif" width="350px"/>
+  <br>
+  <i>"Power comes from mastery — code, systems, intelligence."</i>
+</p>
 
 # 💻 **Hy! I'm Keven Lucas**
 
@@ -90,7 +97,7 @@ Alongside automations, I also explore **systems programming in C**, implementing
 
 <p align="left">
   <a href="https://github.com/KevenLucas01" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C"></a>
-  <a href="<https://www.linkedin.com/in/keven-lucas-648428312>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C"></a>
+  <a href="https://www.linkedin.com/in/keven-lucas-648428312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C"></a>
 </p>
 
 ---
@@ -115,14 +122,14 @@ Academic/security-focused tools:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=<KevenLucas01>&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FF9C" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<KevenLucas01>&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KevenLucas01&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FF9C" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenLucas01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<KevenLucas01>&theme=tokyonight&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevenLucas01&theme=tokyonight&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&hide_border=true" />
 </p>
 
 ---
