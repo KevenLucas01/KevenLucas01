@@ -11,7 +11,7 @@
   <i>"Power comes from mastery — code, systems, intelligence, solutions."</i>
 </p>
 
-# 💻 **Hy! I'm Keven Lucas**
+# 💻 **Hi! I'm Keven Lucas**
 
 I'm a **Software Engineer in Training at the University of Brasília (UnB)**, specializing in **backend automation**, **AI-powered chatbots**, and **enterprise integrations**.
 
