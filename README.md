@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://yllvmlhzfatqcibnvcvz.supabase.co/storage/v1/object/public/gitimg/akuma7.gif" width="450px"/>
+  <img src="https://riaikacdmjdsgncmejse.supabase.co/storage/v1/object/public/alcantara/pdf/akuma7.gif" width="450px"/>
   <br>
   <i>"Power comes from mastery — code, systems, intelligence, solutions."</i>
 </p>
