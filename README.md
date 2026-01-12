@@ -11,43 +11,40 @@
   <i>"Power comes from mastery — code, systems, intelligence, solutions."</i>
 </p>
 
-Hi there, I'm Keven! 👋
 
-AI Workflow Designer | Python Automation Engineer | UnB Undergraduate
+# 💻 **Hi! I'm Keven Lucas**
 
-I am a specialized consultant operating at the intersection of Software Engineering and Commercial Strategy. My focus is architecting self-hosted "Revenue Engines" that process massive workloads using Intelligent Automation.
+**AI Workflow Designer | Python Automation Engineer | UnB Undergraduate**
 
+I am a **specialized consultant operating at the intersection of Software Engineering and Commercial Strategy**. My focus is architecting self-hosted "Revenue Engines" that process massive workloads using Intelligent Automation..
 
-🚀 What I'm working on
+My work combines low-level engineering fundamentals with high-level intelligent automation, delivering systems that are **scalable, reliable, and impactful**.
 
+---
 
-Enterprise Lead Qualification: Architecting a self-hosted ecosystem (N8N + Python) processing 200k+ leads/year for a multi-state corporation.
+## 🧠 **What I Work On**
 
-Autonomous Agents: Building LLM-based agents that negotiate and qualify leads in real-time using OpenAI & RAG.
+- 🚀 **Backend Automation** (Python, APIs, workflows)
+- 🤖 **AI Agents & Chatbots** with LLMs, RAG, Prompt Engineering
+- 🧩 **ERP Integrations** (Winthor / TOTVS)
+- 🐍 Data workflows using Pandas
+- 🐧 **Debian** server management & Dockerized environments
+- 🔌 Real-time applications with WebSocket
+- ⚙ Low-code automation with **N8N**
 
-Financial RPA: Maintaining Python bots that automate ERP entries (TOTVS Winthor) for 50+ branches.
+Alongside automations, I also explore **systems programming in C**, implementing proxies, OS-level tools, and security mechanisms — strengthening my foundations in networks and operating systems.
 
+---
 
+# ⚙️ **Tech Stack**
 
-📈 Career Highlights
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,postgres,redis,docker,debian,git,github,vscode,powershell,bash&theme=dark" />
+</p>
 
-
-400% Increase in qualified lead generation through WhatsApp API automation.
-
-70% Reduction in manual financial operational time via RPA implementation.
-
-6 Years of intensive English capability for global operations.
-
-
-<div align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/keven-lucas-648428312" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:keven.benevidio20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,fastapi,selenium,linux,cloudflare&theme=dark" />
+</p>
 ---
 
 # 🛠️ **Languages & Tools (Visual Shields)**
